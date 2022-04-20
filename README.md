@@ -1,4 +1,4 @@
-# practice-Yaw
+# practice-Yew
 
 It is just an application that counts when you press the button.
-[Yaw app](https://omame-dev.github.io/practice-Yaw/)
+[Yew app](https://omame-dev.github.io/practice-Yew/)
